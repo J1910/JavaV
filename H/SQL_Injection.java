@@ -39,6 +39,7 @@ public class Second_Order_SQL_Injection extends HttpServlet {
 
                 s.setString(1, text);
 
+                
                 s.executeQuery();
 
         }

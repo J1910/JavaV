@@ -374,6 +374,7 @@ public class CSRF extends LessonAdapter
 		return nameroot;
 	}
 
+
 	public Element getCredits()
 	{
 		return super.getCustomCredits("Created by Sherif Koussa&nbsp;", MAC_LOGO);
